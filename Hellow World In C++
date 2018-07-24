@@ -1,0 +1,8 @@
+#include <iostream>// Header file include output Stream
+using namespace std;
+
+int main() // main function return main method
+{
+    cout << "Hello, World!";// Print Hellow World
+    return 0;// return 0 as integer number
+}
